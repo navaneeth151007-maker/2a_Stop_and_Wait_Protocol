@@ -57,7 +57,3 @@ Client Side\
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
 
-Client Side\
-<img width="276" height="192" alt="image" src="https://github.com/user-attachments/assets/f01f50a1-ad49-4763-aa23-cc72e3480e5a" />
-## RESULT
-Thus, python program to perform stop and wait protocol was successfully executed.
