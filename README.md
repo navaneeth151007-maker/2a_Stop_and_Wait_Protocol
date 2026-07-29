@@ -51,7 +51,7 @@ s.close()
 ```
 ## OUTPUT
 Sever Side\
-<img width="375" height="133" alt="image" src="https://github.com/user-attachments/assets/60027d29-8a2f-4119-8653-02e43f49aa9a" />\
+<img width="341" height="202" alt="image" src="https://github.com/user-attachments/assets/a3b45c04-27ac-4a08-a00f-1bfb6c60c350" />
 Client Side\
 <img width="341" height="202" alt="image" src="https://github.com/user-attachments/assets/b43d779b-842e-4a75-b17b-a1f4bb2b374a" />
 ## RESULT
